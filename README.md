@@ -1,4 +1,4 @@
-# CS 6450-001 Fall 2024: Distributed Systems
+# Distributed Systems
 
 ## Course Schedule
 
