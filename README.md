@@ -1,3 +1,4 @@
+<!-- 
 # Distributed Systems
 
 ## Course Schedule
@@ -34,7 +35,7 @@ Students that successfully complete this course should be able to:
 * explain the various types of systems that comprise many large-scale distributed infrastructures (metadata stores, batch computeframeworks, filesystems, databases, caching, etc).
 * use RPC and specifications of distributed algorithms to implement fault-tolerant, available systems.
 * approach, discuss, and communicate about difficult and technical subject matters in the area of distributed systems.
-
+-->
 ## Topic List
 
 This list of topics serve as a road map for the class. Depending on time some topics will change, and we likely won't (quite) be able to covereverything listed here.
