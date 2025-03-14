@@ -38,8 +38,6 @@ Students that successfully complete this course should be able to:
 -->
 ## Topic List
 
-This list of topics serve as a road map for the class. Depending on time some topics will change, and we likely won't (quite) be able to covereverything listed here.
-
 * Fundamentals
 * Introduction
 * Networking, Concurrency, and RPC
